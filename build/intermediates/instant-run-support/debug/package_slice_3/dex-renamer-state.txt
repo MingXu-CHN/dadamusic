@@ -1,0 +1,4 @@
+#Wed Mar 21 18:41:58 CST 2018
+base.0=/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex

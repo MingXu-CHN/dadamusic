@@ -1,0 +1,12 @@
+<RadioButton xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:button="@null"
+    android:drawableRight="@drawable/sel_pop_window_radio_button"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:text="超高品质(11.1M)"
+    android:textSize="14sp" >
+
+</RadioButton>

@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:padding="5dp"
+    android:orientation="horizontal"
+    tools:context=".MainActivity" >
+
+    <ImageView
+        android:id="@+id/ivPic"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:scaleType="centerCrop"
+        android:src="@drawable/user_playlist_default_cd" />
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:layout_marginTop="3dp"
+        android:layout_alignLeft="@+id/ivPic"
+        android:layout_alignRight="@+id/ivPic"
+        android:layout_below="@+id/ivPic"
+        android:textSize="11sp"
+        android:text="呵呵呵呵呵呵" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/ivPic"
+        android:layout_alignRight="@+id/ivPic"
+        android:layout_margin="6dp"
+        android:src="@drawable/bt_play_nor" />
+
+    <RadioButton
+        android:id="@+id/radioListen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/ivPic"
+        android:layout_alignBottom="@+id/ivPic"
+        android:button="@drawable/ic_listen_count"
+        android:textColor="#ffffff"
+        android:layout_margin="6dp"
+        android:textSize="11sp"
+        android:paddingLeft="4dp"
+        android:text="12345" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="1dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/ivPic"
+        android:layout_alignBottom="@+id/ivPic"
+        android:layout_marginRight="1dp"
+        android:background="#aaffffff"
+        android:layout_alignTop="@+id/ivPic"/>
+
+</RelativeLayout>

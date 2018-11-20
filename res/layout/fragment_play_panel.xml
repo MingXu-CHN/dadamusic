@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingBottom="20dp" >
+
+        <ImageView
+            android:id="@+id/ivLoop"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/bt_playpage_loop_normal_new" />
+
+        <ImageView
+            android:id="@+id/ivPrevious"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/bt_playpage_button_previous_normal_new" />
+
+        <ImageView
+            android:id="@+id/ivPlay"
+            android:layout_width="130dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bt_playpage_button_play_normal_new" />
+
+        <ImageView
+            android:id="@+id/ivNext"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/bt_playpage_button_next_normal_new" />
+
+        <ImageView
+            android:id="@+id/ivList"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:src="@drawable/bt_playpage_button_list_normal_new" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/linearLayout1"
+        android:layout_alignParentLeft="true"
+        android:gravity="center"
+        android:padding="10dp" >
+
+        <TextView
+            android:id="@+id/tvCurrentTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="00:01"
+            android:textSize="10sp" />
+
+        <SeekBar
+            android:id="@+id/seekBar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            style="@style/Widget.SeekBar.Normal"
+            android:max="100"
+            android:progress="0"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/tvTotaltime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="03:32"
+            android:textSize="10sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/linearLayout2"
+        android:gravity="center"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_alignParentLeft="true" >
+
+        <ImageView
+            android:id="@+id/ivLike"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bt_playpage_button_like_normal_new" />
+
+        <ImageView
+            android:id="@+id/ivDownload"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bt_playpage_button_download_normal_new" />
+
+        <ImageView
+            android:id="@+id/ivShare"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bt_playpage_button_share_normal_new" />
+
+        <ImageView
+            android:id="@+id/ivComment"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bt_playpage_button_comment_normal" />
+
+        <ImageView
+            android:id="@+id/ivMoreactions"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bt_playpage_moreactions_normal_new" />
+
+    </LinearLayout>
+
+	<android.support.v4.view.ViewPager
+	    android:id="@+id/viewPager"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:layout_above="@+id/linearLayout3"/>
+
+	<RelativeLayout
+	    android:id="@+id/actionBar"
+	    android:layout_width="match_parent"
+	    android:layout_height="60dp" >
+        
+	    
+	</RelativeLayout>
+    
+</RelativeLayout>
+

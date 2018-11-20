@@ -1,0 +1,1942 @@
+[
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_notification_action.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_loop_normal_new.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_loop_normal_new.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_button_searchpicandlyric_press_black.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_button_searchpicandlyric_press_black.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_fragment_music.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/fragment_music.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_button_pause_normal_new.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_button_pause_normal_new.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_abc_popup_enter.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_shape_search_keyword_tag_normal.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable/shape_search_keyword_tag_normal.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_view_pop_window_download.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/view_pop_window_download.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_item_music_gedan.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/item_music_gedan.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_bangdan_detail_fragment_exit.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/anim/bangdan_detail_fragment_exit.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_abc_fade_out.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_minibar_next_normal.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_minibar_next_normal.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_notification_action_tombstone.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bg_mypoints_head.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bg_mypoints_head.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_view_lyrics_header_empty.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/view_lyrics_header_empty.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_fragment_play_panel_none.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/fragment_play_panel_none.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout-v21_notification_action.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_shape_list_divider.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable/shape_list_divider.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_tint_edittext.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_button_progress_normal.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_button_progress_normal.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_primary_text_material_light.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_item_match_pic.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/item_match_pic.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_fragment_music_bangdan.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/fragment_music_bangdan.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_bangdan_detail_fragment_enter.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/anim/bangdan_detail_fragment_enter.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_abc_fade_in.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_button_play_normal_new.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_button_play_normal_new.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_text_cursor_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_sel_bangdan_list_item.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable/sel_bangdan_list_item.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_item_music_bangdan_detail.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/item_music_bangdan_detail.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_btn_colored_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_thumb.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_sel_search_music_keyword_tag.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable/sel_search_music_keyword_tag.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_primary_text_material_dark.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_default_album_playing_new.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/default_album_playing_new.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout-v11_notification_media_action.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_ic_localmusic_scan.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/ic_localmusic_scan.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_img_king_mask02.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/img_king_mask02.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_ic_mymusic_picture_down.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/ic_mymusic_picture_down.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_tint_default.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_item_lyrics2.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/item_lyrics2.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_sel_search_music_keyword_text_color.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable/sel_search_music_keyword_text_color.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-v23_abc_control_background_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_shape_search_keyword_tag_sel.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable/shape_search_keyword_tag_sel.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_user_playlist_default_cd.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/user_playlist_default_cd.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_ic_gengduo_normal.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/ic_gengduo_normal.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_notification_template_icon_group.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bg_mymusic_face.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bg_mymusic_face.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_img_king_mask01.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/img_king_mask01.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_ic_lyricpic_search.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/ic_lyricpic_search.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_vector_test.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_fragment_music_gedan.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/fragment_music_gedan.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_random_normal_new.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_random_normal_new.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_activity_search_lyrics_pics.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/activity_search_lyrics_pics.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_button_list_normal_new.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_button_list_normal_new.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_ic_listen_count.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/ic_listen_count.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_view_bangdan_detail_list_header.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/view_bangdan_detail_list_header.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_sel_fragment_music_tab.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable/sel_fragment_music_tab.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_img_top_number_3.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/img_top_number_3.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_play_nor.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_play_nor.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_abc_list_divider_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/abc_list_divider_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_img_top_number_2.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/img_top_number_2.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_roundsingle_normal_new.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_roundsingle_normal_new.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_view_pop_window_radio_button.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/view_pop_window_radio_button.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_screen_content_include.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_button_next_normal_new.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_button_next_normal_new.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_moreactions_normal_new.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_moreactions_normal_new.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_fragment_search.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_img_top_number_1.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/img_top_number_1.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_icon_share_playlist.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/icon_share_playlist.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_action_bar_view_list_nav_layout.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_switch_thumb_material_dark.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_seekbar_horizontal.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable/seekbar_horizontal.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_ic_search_api_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_button_comment_normal.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_button_comment_normal.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_pop_window_enter.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/anim/pop_window_enter.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color-v23_abc_tint_default.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_ic_mymusic_local_normal.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/ic_mymusic_local_normal.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_search_url_text.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_sel_pop_window_radio_button.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable/sel_pop_window_radio_button.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bg_playpage_cover.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bg_playpage_cover.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_light.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_textfield_search_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_ic_gengduo_press.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/ic_gengduo_press.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_abc_slide_in_bottom.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_img_spacepage_nocontent.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/img_spacepage_nocontent.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_fragment_play_panel_cover.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/fragment_play_panel_cover.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_tab_indicator_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_secondary_text_material_light.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_abc_popup_exit.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_minibar_pause_normal.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_minibar_pause_normal.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_ic_list_more_normal.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/ic_list_more_normal.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_notification_bg.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_sel_actionbar_tab.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable/sel_actionbar_tab.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_ratingbar_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_ic_search_music.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/ic_search_music.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_item_lyrics.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/item_lyrics.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_btn_radio_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_item_match_lrc.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/item_match_lrc.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_button_previous_normal_new.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_button_previous_normal_new.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_light.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_play_press.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_play_press.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_ic_localmusic_search.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/ic_localmusic_search.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_titlebar_new_search_press.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_titlebar_new_search_press.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_action_bar_title_item.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_ic_back_normal.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/ic_back_normal.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_sel_actionbar_search.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable/sel_actionbar_search.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_action_menu_layout.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_tint_seek_thumb.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_button_like_normal_new.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_button_like_normal_new.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_abc_slide_out_bottom.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_fragment_local_music.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/fragment_local_music.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_item_search_music.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/item_search_music.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_view_search_keyword.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/view_search_keyword.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_titlebar_new_search_normal.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_titlebar_new_search_normal.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_tint_spinner.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_song_image_loading_default.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/song_image_loading_default.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_fragment_music_bangdan_detail.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/fragment_music_bangdan_detail.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_localmusic_icon_sort_currentle.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/localmusic_icon_sort_currentle.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_abc_slide_out_top.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_sel_actionbar_gengduo.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable/sel_actionbar_gengduo.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_btn_more_left_arrow_nor.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/btn_more_left_arrow_nor.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_tint_btn_checkable.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_switch_thumb_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi_music_item_default.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-hdpi/music_item_default.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_img_king_mask03.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/img_king_mask03.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_btn_colored_text_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_img_king_mask1.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/img_king_mask1.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_edit_text_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_item_music_bangdan.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/item_music_bangdan.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_ic_checkbox_blue_selected.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/ic_checkbox_blue_selected.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color-v11_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_button_share_normal_new.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_button_share_normal_new.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_tint_switch_track.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_pop_window_exit.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/anim/pop_window_exit.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_seekbar_track_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color-v23_abc_tint_edittext.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_button_download_normal_new.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_button_download_normal_new.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_play_panel_fragment_exit.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/anim/play_panel_fragment_exit.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_fragment_my.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/fragment_my.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_fragment_play_panel_lyrics.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/fragment_play_panel_lyrics.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_ic_back_press.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/ic_back_press.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_notification_template_media.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_icon_play.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/icon_play.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color-v23_abc_tint_spinner.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_minibar_playinglist_normal.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_minibar_playinglist_normal.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_playpage_button_download_activited_new.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_playpage_button_download_activited_new.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color_abc_tint_switch_thumb.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_bt_minibar_play_normal.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/bt_minibar_play_normal.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_fragment_play_panel.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/fragment_play_panel.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_item_search_suggest.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/item_search_suggest.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_empty.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/empty.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color-v23_abc_tint_switch_track.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi_btn_search_press.png.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/drawable-xhdpi/btn_search_press.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/anim_play_panel_fragment_enter.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/anim/play_panel_fragment_enter.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_item_local_music.xml.flat",
+        "source": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/res/layout/item_local_music.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout_abc_list_menu_item_layout.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/xuming/Desktop/历史/哒哒音乐项目/哒哒音乐/build/intermediates/res/merged/debug/layout-v11_notification_media_cancel_action.xml.flat",
+        "source": "/Users/xuming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.1.0.aar/891bc814bab3aa6e5c4f2d9263695c1b/res/layout-v11/notification_media_cancel_action.xml"
+    }
+]
